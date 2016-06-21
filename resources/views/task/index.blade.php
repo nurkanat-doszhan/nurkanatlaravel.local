@@ -5,7 +5,7 @@
         <h3>Dashboard</h3>
         @if(count($tasks) > 0)
             <div class="panel panel-default">
-                <div class="panel-heading">Current tasks</div>
+                <div class="panel-heading">Current teacher tasks</div>
             </div>
             <div class="panel-body">
                 <table class="table table-striped">
